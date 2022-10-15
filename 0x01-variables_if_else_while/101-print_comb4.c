@@ -18,12 +18,12 @@ int main(void)
 				if (c < i && i < k)
 				{
 					putchar(c);
-					puchar(i);
+					putchar(i);
 					putchar(k);
 
 					if (c != '7')
 					{
-						puchar(',');
+						putchar(',');
 						putchar(' ');
 					}
 				}
