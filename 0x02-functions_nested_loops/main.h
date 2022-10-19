@@ -1,4 +1,5 @@
 #ifndef MAIN_H
+<<<<<<< HEAD
 #define MAIN_H
 
 void print_alphabet(void);
@@ -16,3 +17,9 @@ void print_times_table(int n);
 int _putchar(char c);
 
 #endif
+=======
+#define MIAN_H
+int _putchar(char c)
+
+#endif 
+>>>>>>> 42ad09d266dbe54f9319cd9c5eb7a132b9ed753f
